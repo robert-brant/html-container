@@ -1,0 +1,6 @@
+[
+  {
+    "name":"simple-web",
+    "imageUri":"682591188398.dkr.ecr.us-east-1.amazonaws.com/html-container:latest"
+  }
+]
